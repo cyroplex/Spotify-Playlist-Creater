@@ -2,7 +2,7 @@
 
 This project is designed to create custom playlists with a user-specified timeline.
 
-## Setup 
+## Installing 
 
 ```bash 
 git clone https://github.com/cyroplex/Spotify-Time-Machine.git
